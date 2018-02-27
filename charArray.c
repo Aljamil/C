@@ -11,7 +11,7 @@ int main(void)
 
 	CPY(str1, str2);
 
-	printf("%s", str2);
+	printf("%s", str1);
 
 	puts("");
 
